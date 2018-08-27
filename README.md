@@ -11,8 +11,10 @@
 
 ## 5. 카메라 다루기
 
-## 6. 네트워크 다루기
+## 6. 구글맵 연동하기 
 
-## 7. Bluetooth 다루기
+## 7. 네트워크 다루기
 
-## 8. Machine Learning 
+## 8. Bluetooth 다루기
+
+## 9. Machine Learning 
